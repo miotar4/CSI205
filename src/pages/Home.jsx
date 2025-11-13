@@ -37,7 +37,7 @@ const Home = () => {
         >
           <img
             className="w-100 h-100 object-fit-cover"
-            src="./src/assets/profile/profile.jpg"
+            src="./src/assets/profile.jpg"
             alt="Profile"
           />
         </div>
